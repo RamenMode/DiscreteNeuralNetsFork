@@ -83,3 +83,5 @@ img3 = training_pairs[34][0]['x']
 show(img3)
 print('New image obtained from polymorphism')
 show(ind_pol[img3, img2])
+
+# this is a test !
